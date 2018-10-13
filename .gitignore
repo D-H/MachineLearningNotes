@@ -1,0 +1,11 @@
+# Big Files
+*.pickle
+*.tar.gz
+notMNIST_large
+notMNIST_small
+TensorFlowEventFiles
+
+
+# Stuff I should not commit
+.idea
+.ipynb_checkpoints
